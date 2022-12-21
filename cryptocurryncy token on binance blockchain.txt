@@ -1,0 +1,10 @@
+PROCEDURE OF CREATING CRYPTOCURRENCY TOKEN ON BNB TESTNET
+1-creating the metamask wallet
+2-adding bnb tetnetwork manually
+3-then adding some faucet
+4-then gonig to the trustswap website for creating the test token
+5-selecting the bnb testnetwork in metamask wallet 
+6-then adding the image of the token
+7-giving token name, decimals
+8-finally adding the suppy of the token
+9-last creating the test bnb token

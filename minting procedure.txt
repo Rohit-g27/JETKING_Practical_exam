@@ -1,0 +1,5 @@
+PROCETURE OF MINTING CRIPTOCURRYCIES TOKEN ON BINANCE BLOCKCHAIN
+1-after successfully creating the bnb test tokens
+2-i am copying the contract address
+3-then in metamask we need to import the test token by simply pasting the contract address
+4-and finaly the test token are added in metamask 
